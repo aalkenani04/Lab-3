@@ -1,6 +1,6 @@
 ---
 title: "Lab 03 - Take a sad plot and make it better"
-author: "Ali Al Kenani, Jessie Preston, User3 and User4 - Team Name"
+author: "Ali Al Kenani, Jessie Preston, User3 and Me (Again) - JAFRS Central"
 date: "`r Sys.Date()`"
 output: html_document
 ---
