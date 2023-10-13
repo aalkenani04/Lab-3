@@ -21,7 +21,7 @@ library(ggplot2)
 knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
-_Write your comments about image 1 below_
+_The Top bar is too thick, doesn't stay consistent scale, having one a different doesn't look_
 
 
 
@@ -33,7 +33,7 @@ _Write your comments about image 1 below_
 knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
-_Write your comments about image 2 below_
+_The colour of the the graph is too contrasting with itself, there is no actual numbers to the data, and it's not ordered well, and some sections pop out._
 
 
 
@@ -44,7 +44,7 @@ _Write your comments about image 2 below_
 knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
-_Write your comments about image 3 below_
+_They all overlap, the headings aren't informative, there's no key to tell us what the colours mean_
 
 
 
@@ -55,7 +55,7 @@ _Write your comments about image 3 below_
 knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
-_Write your comments about image 4 below_
+_Headings are too long, too dense with information, Y axis isn't labelled, Names of sections are very misleading, clearly biased_
 
 
 
